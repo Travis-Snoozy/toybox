@@ -1,0 +1,5 @@
+Assume you have a standard 12-hour analog clock. The minute and hour hands both move an absolute quantum at the start of each minute. Given an angle in whole degrees, return all of the times where the hands are at that angle to each other.
+
+
+--
+Solved in Java, 2015-03-02; 2 attempts; untimed.

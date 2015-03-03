@@ -1,0 +1,10 @@
+For a given stock, assume that you have an array which:
+- Contains the stock's price
+- Each index corresponds with a point in time
+- The indices are in ascending chronological order (i.e., 0 is the earliest in time)
+
+Given this array, and the restriction that you may not short, find the most profitable pair of buy/sell indices.
+
+
+--
+Solved in Java, 2015-03-02; 1 attempt; untimed.
