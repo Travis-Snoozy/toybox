@@ -1,1 +1,7 @@
 Given a string (or character array, if your language has immutable strings), reverse the order of all of the words in the array without using any extra storage.
+
+Characters may be assumed to be ASCII. Words may be assumed to be separated only by the space character.
+
+
+--
+Solved in C++11, 2015-03-04; 1 attempt; untimed.

@@ -1,0 +1,7 @@
+Given a list of integers sorted in ascending order, write a function to determine if the array contains a value equal to its index.
+
+O(log(n)) time.
+
+
+--
+Solved in C++11, 2015-03-04; 1 attempt; untimed.

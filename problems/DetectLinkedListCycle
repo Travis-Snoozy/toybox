@@ -1,1 +1,5 @@
 Given a basic linked list data structure, and no additional storage, determine if there is a cycle in the linked list.
+
+
+--
+Solved in C++11, 2015-03-04; 1 attempt; untimed.
